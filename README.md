@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java, Python, Embedded Systems, and Optimization Algorithms**
 
-- 📫 How to reach me: **mehmetvasfiturkmen@gmail.com**
+- 📫 How to reach me: **mehmetvasfi45@gmail.com**
 
 - ⚡ Fun fact: I love building things that interact with the real world.
 
